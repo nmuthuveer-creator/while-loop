@@ -1,4 +1,4 @@
-n=int(input("Enter the number:"))
+n
 sum=0
 i=1
 while i<=n:
